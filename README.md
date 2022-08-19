@@ -1,0 +1,1 @@
+### A simple CRUD Maven operation using Spring Boot Data JPA, Thymeleaf, JDBC and MySQL database
